@@ -28,7 +28,7 @@ Temple Donation Dashboard built on Salesforce - LWC Dashboard for simhachalam Te
 3. Displays in App Page with progress bars - Top Temples
 
 ### 👨‍💻 Developer
-**Girisha** | CSE Student | Visakhapatnam, AP
+**Girisha** | CSE Student | Nellore, AP
 Built as part of Salesforce Admin + Development Learning
 
 ### 📂 How to Deploy in Your Org
