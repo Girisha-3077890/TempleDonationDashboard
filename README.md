@@ -5,7 +5,7 @@ Temple Donation Dashboard built on Salesforce - LWC Dashboard for simhachalam Te
 > Live tracking of temple donations for Simhachalam Temple & other temples using Salesforce LWC.
 
 ### 🔗 Live Demo Screenshot
-![Dashboard](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here)
+![Temple Dashboard Live - Simhachalam $20000](./Screenshot%202026-11-07%20201810.png)
 *Note: Replace with your actual Lightning App Builder screenshot showing Top Temples - Donations*
 
 ### ✨ Features Built
